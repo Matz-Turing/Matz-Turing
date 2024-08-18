@@ -1,6 +1,5 @@
 # Welcome to My GitHub Profile
-
-![Profile Banner](img/1.png)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matz-Turing&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## About Me
 
