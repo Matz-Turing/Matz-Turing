@@ -1,6 +1,9 @@
 # Welcome to My GitHub Profile
 
 ## About Me
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matz-Turing&layout=donut-vertical&theme=radical)](https://github.com/Matz-Turing/github-readme-stats)
+
 I am a dedicated student with a strong passion for the theoretical aspects of computer science and information security. My academic journey is focused on understanding complex algorithms, computational theory, and the fundamental principles that underpin modern technology.
 
 ## Areas of Interest
