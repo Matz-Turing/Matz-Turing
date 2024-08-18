@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+S.;I'm+from+Brazil;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # Welcome to My GitHub Profile
@@ -26,3 +28,5 @@ Feel free to explore my repositories, contribute, or reach out for discussions o
 ---
 
 *“Explore. Learn. Evolve.”* – My guiding principles in the pursuit of excellence in computer science and information security.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
