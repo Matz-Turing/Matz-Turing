@@ -25,3 +25,5 @@ Feel free to explore my repositories, contribute, or reach out for discussions o
 ---
 
 *“Explore. Learn. Evolve.”* – My guiding principles in the pursuit of excellence in computer science and information security.
+
+![snake animation](https://github.com/<seu Matz-Turing>/<seu Matz-Turing>/blob/output/github-contribution-grid-snake2.svg)
