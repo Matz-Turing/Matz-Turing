@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile
 
+![Profile Banner](img/1.png)
+
 ## About Me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matz-Turing&layout=donut-vertical&theme=radical)](https://github.com/Matz-Turing/github-readme-stats)
