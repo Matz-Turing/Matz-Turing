@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c00b0&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+S.;I'm+from+Brazil;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -26,6 +26,6 @@ In my free time, I actively seek opportunities to collaborate with others and co
 Feel free to explore my repositories, contribute, or reach out for discussions on projects or topics of mutual interest. I’m always eager to learn from others and contribute to the community.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-*“Explore. Learn. Evolve.”* – My guiding principles in the pursuit of excellence in computer science and information security.
+“Explore. Learn. Evolve.” – My guiding principles in the pursuit of excellence in computer science and information security.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c00b0&height=120&section=footer"/>
