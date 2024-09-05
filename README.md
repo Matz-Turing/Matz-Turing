@@ -25,6 +25,29 @@ In my free time, I actively seek opportunities to collaborate with others and co
 ## Get in Touch
 Feel free to explore my repositories, contribute, or reach out for discussions on projects or topics of mutual interest. I’m always eager to learn from others and contribute to the community.
 
+## Some Tools I Use
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,idea,pycharm,dotnet" />
+  </a>
+</p>
+
+## Some Languages ​​I Use
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,java,py," />
+  </a>
+</p>
+
+## Operating Systems I Use
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,mint,kali," />
+  </a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 “Explore. Learn. Evolve.” – My guiding principles in the pursuit of excellence in computer science and information security.
 
